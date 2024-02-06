@@ -30,7 +30,7 @@ I'm a data enthusiast on a journey through the realms of Data Science and Analyt
 
 ## 📫 Let's Connect
 
-#### Feel free to connect with me on
+### Feel free to connect with me on
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyadeep-dutta-data/)
 ## Thank you for visiting my GitHub landing page!
